@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[从今天起开始学习C++ Primer]]></title>
+    <url>%2F2017%2F07%2F02%2F%E4%BB%8E%E4%BB%8A%E5%A4%A9%E8%B5%B7%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0C-Primer%2F</url>
+    <content type="text"></content>
+      <tags>
+        <tag>C++ Primer</tag>
+        <tag>c语言</tag>
+        <tag>学习</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2017%2F06%2F28%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
@@ -19,19 +29,19 @@
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[python电子书]]></title>
-    <url>%2F2017%2F04%2F08%2Fpython%E7%94%B5%E5%AD%90%E4%B9%A6%2F</url>
-    <content type="text"><![CDATA[python 电子书 [TOC] 转自https://github.com/lzjun567/note/tree/master/note 电子书看到很多朋友经常问Python如何入门，入门之后还是非常迷茫、困惑。笔者有幸从业余的Python新手晋级为Python玩家，谈不上精通，尽管如此我还在不断地学习中。其实学习任何一门语言或者技能，没有什么捷径，无非就是学、实践、学、实践…我最开始触碰Python的动机是出于好奇，接触之后结果发现PYTHON真的非常诱人，开始是在网上看了几篇简单的入门教程，尝到甜头之后，于是在上网搜了一些专业书籍，决定系统的了解这门语言。大概啃了一个星期的书之后，觉得太没意思了，一直沉浸在课本知识中，时间一长，枯燥无比，人的意志力也被掏光了，没法继续往下读了，于是我停了下来，决定拿Python捣鼓点东西，我的第一个demo就是用Python写一个自动定时邮件发送的程序，后来自己搭建BLOG程序，再后来自己写爬虫，写API接口…于是就走到了今天。以下是我在学习过程中看过或者觉得有用的一些教程和书籍。 基础篇入门的教程就是要直达主题，越简单越好，不要太多的原理性知识，页码不用太厚，涉及的知识点不能往外延伸太广，如果学习一门语言还叫我先把操作系统，计算机原理学完才能看得懂教程的话，就不叫入门教程。 提高篇xxxx 扩展篇###扩展篇xxx 小白Python教程，Python3中文教程电子版 廖雪峰的小白python教程，有python2和python3两个版本： 简明Python教程 简明python教程，是《A Byte of Python》的中文版 零基础学Python 老齐（qiwsir）的Python基础教程Gitbook版 可爱的 Python 大妈（Zoom.Quiet）创意并组建团队，完全由 CPyUG 成员自发组织完成。 Python 2.7 官方教程中文版 Python 3.3 官方教程中文版 《Python Cookbook》 3rd Edition中文版 注重实践的一本书，但不适合初学者。 深入 Python 3 《dive into python3》的中译版。 PEP8 Python代码风格规范 Google Python 风格指南 中文版 写python的人都应该遵循的原则。 Python入门教程 (PDF) Python 官方入门的中文翻译版（主页）。翻译工程属于 O.B.P 计划的一部分，主要翻译者为刘鑫与 DocsPy3zh, 校对为 Zoom.Quiet。 Python的神奇方法指南 有关Python内编写类的各种技巧和方法(构建和初始化、重载操作符、类描述、属性访问控制、自定义序列、反射机制、可调用对象、上下文管理、构建描述符对象、Pickling)。你可以把它当作一个教程，进阶，或者使用参考 笨办法学 Python （PDF版下载） 《Learn Python The Hard Way》中译版 Python学习笔记 stackoverflow上Python相关回答整理翻译 stackoverflow上python相关的热门问题 Python 指南 The Hitchhiker’s Guide to Python中文版 Django 1.8.2 文档中文版 Django 最佳实践 Django搭建简易博客教程 The Django Book 中文版 web.py 0.3 新手指南 Web.py Cookbook 简体中文版 Flask 文档中文版 Jinja2 文档中文版 Werkzeug 文档中文版 Flask之旅 Introduction to Tornado 中文翻译 Python自然语言处理中文版 Python 绘图库 matplotlib 官方指南中文翻译 Scrapy 0.25 文档 ThinkPython Python快速教程 Python 正则表达式操作指南 python初级教程：入门详解 Twisted 与异步编程入门 TextGrocery 中文 API ( 基于svm算法的一个短文本分类 Python 库 ) Requests: HTTP for Humans Pillow 中文文档 PyMOTW 中文版 Fabric 中文文档 The Flask Mega-Tutorial 中文 Tornado源码解析 Tornado 4.3 文档中文版]]></content>
-      <tags>
-        <tag>电子书推荐 python</tag>
-      </tags>
-  </entry>
-  <entry>
     <title><![CDATA[Gitpages搭建参考]]></title>
     <url>%2F2017%2F04%2F08%2Findex%2F</url>
     <content type="text"><![CDATA[[TOC] Gitpages 搭建过程参考链接http://www.jianshu.com/p/985d07d88ef4http://www.cnfeat.com/2014/05/10/2014-05-11-how-to-build-a-blog/]]></content>
       <tags>
         <tag>gitpages搭建参考</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[python电子书]]></title>
+    <url>%2F2017%2F04%2F08%2Fpython%E7%94%B5%E5%AD%90%E4%B9%A6%2F</url>
+    <content type="text"><![CDATA[python 电子书 [TOC] 转自https://github.com/lzjun567/note/tree/master/note 电子书看到很多朋友经常问Python如何入门，入门之后还是非常迷茫、困惑。笔者有幸从业余的Python新手晋级为Python玩家，谈不上精通，尽管如此我还在不断地学习中。其实学习任何一门语言或者技能，没有什么捷径，无非就是学、实践、学、实践…我最开始触碰Python的动机是出于好奇，接触之后结果发现PYTHON真的非常诱人，开始是在网上看了几篇简单的入门教程，尝到甜头之后，于是在上网搜了一些专业书籍，决定系统的了解这门语言。大概啃了一个星期的书之后，觉得太没意思了，一直沉浸在课本知识中，时间一长，枯燥无比，人的意志力也被掏光了，没法继续往下读了，于是我停了下来，决定拿Python捣鼓点东西，我的第一个demo就是用Python写一个自动定时邮件发送的程序，后来自己搭建BLOG程序，再后来自己写爬虫，写API接口…于是就走到了今天。以下是我在学习过程中看过或者觉得有用的一些教程和书籍。 基础篇入门的教程就是要直达主题，越简单越好，不要太多的原理性知识，页码不用太厚，涉及的知识点不能往外延伸太广，如果学习一门语言还叫我先把操作系统，计算机原理学完才能看得懂教程的话，就不叫入门教程。 提高篇xxxx 扩展篇###扩展篇xxx 小白Python教程，Python3中文教程电子版 廖雪峰的小白python教程，有python2和python3两个版本： 简明Python教程 简明python教程，是《A Byte of Python》的中文版 零基础学Python 老齐（qiwsir）的Python基础教程Gitbook版 可爱的 Python 大妈（Zoom.Quiet）创意并组建团队，完全由 CPyUG 成员自发组织完成。 Python 2.7 官方教程中文版 Python 3.3 官方教程中文版 《Python Cookbook》 3rd Edition中文版 注重实践的一本书，但不适合初学者。 深入 Python 3 《dive into python3》的中译版。 PEP8 Python代码风格规范 Google Python 风格指南 中文版 写python的人都应该遵循的原则。 Python入门教程 (PDF) Python 官方入门的中文翻译版（主页）。翻译工程属于 O.B.P 计划的一部分，主要翻译者为刘鑫与 DocsPy3zh, 校对为 Zoom.Quiet。 Python的神奇方法指南 有关Python内编写类的各种技巧和方法(构建和初始化、重载操作符、类描述、属性访问控制、自定义序列、反射机制、可调用对象、上下文管理、构建描述符对象、Pickling)。你可以把它当作一个教程，进阶，或者使用参考 笨办法学 Python （PDF版下载） 《Learn Python The Hard Way》中译版 Python学习笔记 stackoverflow上Python相关回答整理翻译 stackoverflow上python相关的热门问题 Python 指南 The Hitchhiker’s Guide to Python中文版 Django 1.8.2 文档中文版 Django 最佳实践 Django搭建简易博客教程 The Django Book 中文版 web.py 0.3 新手指南 Web.py Cookbook 简体中文版 Flask 文档中文版 Jinja2 文档中文版 Werkzeug 文档中文版 Flask之旅 Introduction to Tornado 中文翻译 Python自然语言处理中文版 Python 绘图库 matplotlib 官方指南中文翻译 Scrapy 0.25 文档 ThinkPython Python快速教程 Python 正则表达式操作指南 python初级教程：入门详解 Twisted 与异步编程入门 TextGrocery 中文 API ( 基于svm算法的一个短文本分类 Python 库 ) Requests: HTTP for Humans Pillow 中文文档 PyMOTW 中文版 Fabric 中文文档 The Flask Mega-Tutorial 中文 Tornado源码解析 Tornado 4.3 文档中文版]]></content>
+      <tags>
+        <tag>电子书推荐 python</tag>
       </tags>
   </entry>
 </search>
