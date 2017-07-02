@@ -88,26 +88,6 @@
   </entry>
   
   <entry>
-    <title>Gitpages搭建参考</title>
-    <link href="http://yoursite.com/2017/04/08/index/"/>
-    <id>http://yoursite.com/2017/04/08/index/</id>
-    <published>2017-04-08T13:56:17.000Z</published>
-    <updated>2017-04-08T14:00:42.000Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;[TOC]&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&quot;Gitpages-搭建过程&quot;&gt;&lt;a href=&quot;#Gitpages-搭建过程&quot; class=&quot;headerlink&quot; title=&quot;Gitpages 搭建过程&quot;&gt;&lt;/a&gt;Gitpages 搭建过程&lt;/h1&gt;&lt;h2 id=&quot;参考链
-    
-    </summary>
-    
-    
-      <category term="gitpages搭建参考" scheme="http://yoursite.com/tags/gitpages%E6%90%AD%E5%BB%BA%E5%8F%82%E8%80%83/"/>
-    
-  </entry>
-  
-  <entry>
     <title>python电子书</title>
     <link href="http://yoursite.com/2017/04/08/python%E7%94%B5%E5%AD%90%E4%B9%A6/"/>
     <id>http://yoursite.com/2017/04/08/python电子书/</id>
@@ -126,6 +106,26 @@
     
     
       <category term="电子书推荐 python" scheme="http://yoursite.com/tags/%E7%94%B5%E5%AD%90%E4%B9%A6%E6%8E%A8%E8%8D%90-python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Gitpages搭建参考</title>
+    <link href="http://yoursite.com/2017/04/08/index/"/>
+    <id>http://yoursite.com/2017/04/08/index/</id>
+    <published>2017-04-08T13:56:17.000Z</published>
+    <updated>2017-04-08T14:00:42.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;[TOC]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;Gitpages-搭建过程&quot;&gt;&lt;a href=&quot;#Gitpages-搭建过程&quot; class=&quot;headerlink&quot; title=&quot;Gitpages 搭建过程&quot;&gt;&lt;/a&gt;Gitpages 搭建过程&lt;/h1&gt;&lt;h2 id=&quot;参考链
+    
+    </summary>
+    
+    
+      <category term="gitpages搭建参考" scheme="http://yoursite.com/tags/gitpages%E6%90%AD%E5%BB%BA%E5%8F%82%E8%80%83/"/>
     
   </entry>
   
