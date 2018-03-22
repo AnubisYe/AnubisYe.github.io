@@ -327,6 +327,13 @@
           
   <div class="comments" id="comments">
     
+      <div id="disqus_thread">
+        <noscript>
+          Please enable JavaScript to view the
+          <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+        </noscript>
+      </div>
+    
   </div>
 
 
@@ -430,19 +437,7 @@
 
     <footer id="footer" class="footer">
       <div class="footer-inner">
-        <div id="disqus_thread"></div>
-<script type="text/javascript">
-var disqus_shortname = 'anubisye';
-(function() {
-  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
-
-<div class="copyright" >
+        <div class="copyright" >
 <center>
   
   &copy; 
@@ -533,6 +528,26 @@ var disqus_shortname = 'anubisye';
 
   
 
+    
+      <script id="dsq-count-scr" src="https://anubisye.disqus.com/count.js" async></script>
+    
+
+    
+      <script type="text/javascript">
+        var disqus_config = function () {
+          this.page.url = 'http://yoursite.com/about/index.html';
+          this.page.identifier = 'about/index.html';
+          this.page.title = 'about';
+        };
+        var d = document, s = d.createElement('script');
+        s.src = 'https://anubisye.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', '' + +new Date());
+        (d.head || d.body).appendChild(s);
+      </script>
+    
+
+  
+
 
 
 
@@ -551,10 +566,6 @@ var disqus_shortname = 'anubisye';
   
 
 
-
-
-
-  
 
 
 
