@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-30T11:07:35.144Z</updated>
+  <updated>2018-03-30T12:29:22.208Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,19 @@
     <link href="http://yoursite.com/2018/03/30/AI%E8%AF%95%E9%AA%8C/first/"/>
     <id>http://yoursite.com/2018/03/30/AI试验/first/</id>
     <published>2018-03-30T11:07:04.000Z</published>
-    <updated>2018-03-30T11:07:35.144Z</updated>
+    <updated>2018-03-30T12:29:22.208Z</updated>
+    
+    <content type="html"><![CDATA[<p>逻辑回归：</p><p>Step1: 得到“证据”evidence</p><p>权重 ：首先对图片像素值加权求和，如果该像素强有力的说明该图片属于该类别，那么权重为正数，否则为负值。<br>偏置(bias)：手写的图片有一定的干扰量，加入偏置b </p><p>此时证据Evidence 表示为： </p><p>$$evdi =\left( \sum\nolimits<em>{j\in J}w</em>{i,j}\times x<em>{j} + b</em>{i}\right)$$</p><p>其中$w_i,_j$ 代表权重</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;逻辑回归：&lt;/p&gt;
+&lt;p&gt;Step1: 得到“证据”evidence&lt;/p&gt;
+&lt;p&gt;权重 ：首先对图片像素值加权求和，如果该像素强有力的说明该图片属于该类别，那么权重为正数，否则为负值。&lt;br&gt;偏置(bias)：手写的图片有一定的干扰量，加入偏置b &lt;/p&gt;
+&lt;p&gt;此时证据
+      
     
     </summary>
     
@@ -31,20 +41,6 @@
       <category term="AI试验" scheme="http://yoursite.com/tags/AI%E8%AF%95%E9%AA%8C/"/>
     
       <category term="人工智能" scheme="http://yoursite.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2222</title>
-    <link href="http://yoursite.com/2018/03/30/2222/"/>
-    <id>http://yoursite.com/2018/03/30/2222/</id>
-    <published>2018-03-30T11:02:40.000Z</published>
-    <updated>2018-03-30T11:02:40.999Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
     
   </entry>
   
@@ -136,6 +132,31 @@
   </entry>
   
   <entry>
+    <title>Gitpages搭建参考</title>
+    <link href="http://yoursite.com/2017/04/08/index/"/>
+    <id>http://yoursite.com/2017/04/08/index/</id>
+    <published>2017-04-08T13:56:17.000Z</published>
+    <updated>2017-04-08T14:00:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>[TOC]</p><hr><h1 id="Gitpages-搭建过程"><a href="#Gitpages-搭建过程" class="headerlink" title="Gitpages 搭建过程"></a>Gitpages 搭建过程</h1><h2 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h2><p><a href="http://www.jianshu.com/p/985d07d88ef4" target="_blank" rel="external">http://www.jianshu.com/p/985d07d88ef4</a><br><a href="http://www.cnfeat.com/2014/05/10/2014-05-11-how-to-build-a-blog/" target="_blank" rel="external">http://www.cnfeat.com/2014/05/10/2014-05-11-how-to-build-a-blog/</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;[TOC]&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&quot;Gitpages-搭建过程&quot;&gt;&lt;a href=&quot;#Gitpages-搭建过程&quot; class=&quot;headerlink&quot; title=&quot;Gitpages 搭建过程&quot;&gt;&lt;/a&gt;Gitpages 搭建过程&lt;/h1&gt;&lt;h2 id=&quot;参考链
+      
+    
+    </summary>
+    
+    
+      <category term="gitpages搭建参考" scheme="http://yoursite.com/tags/gitpages%E6%90%AD%E5%BB%BA%E5%8F%82%E8%80%83/"/>
+    
+  </entry>
+  
+  <entry>
     <title>python电子书</title>
     <link href="http://yoursite.com/2017/04/08/python%E7%94%B5%E5%AD%90%E4%B9%A6/"/>
     <id>http://yoursite.com/2017/04/08/python电子书/</id>
@@ -159,31 +180,6 @@
     
     
       <category term="电子书推荐 python" scheme="http://yoursite.com/tags/%E7%94%B5%E5%AD%90%E4%B9%A6%E6%8E%A8%E8%8D%90-python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Gitpages搭建参考</title>
-    <link href="http://yoursite.com/2017/04/08/index/"/>
-    <id>http://yoursite.com/2017/04/08/index/</id>
-    <published>2017-04-08T13:56:17.000Z</published>
-    <updated>2017-04-08T14:00:42.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>[TOC]</p><hr><h1 id="Gitpages-搭建过程"><a href="#Gitpages-搭建过程" class="headerlink" title="Gitpages 搭建过程"></a>Gitpages 搭建过程</h1><h2 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h2><p><a href="http://www.jianshu.com/p/985d07d88ef4" target="_blank" rel="external">http://www.jianshu.com/p/985d07d88ef4</a><br><a href="http://www.cnfeat.com/2014/05/10/2014-05-11-how-to-build-a-blog/" target="_blank" rel="external">http://www.cnfeat.com/2014/05/10/2014-05-11-how-to-build-a-blog/</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;[TOC]&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&quot;Gitpages-搭建过程&quot;&gt;&lt;a href=&quot;#Gitpages-搭建过程&quot; class=&quot;headerlink&quot; title=&quot;Gitpages 搭建过程&quot;&gt;&lt;/a&gt;Gitpages 搭建过程&lt;/h1&gt;&lt;h2 id=&quot;参考链
-      
-    
-    </summary>
-    
-    
-      <category term="gitpages搭建参考" scheme="http://yoursite.com/tags/gitpages%E6%90%AD%E5%BB%BA%E5%8F%82%E8%80%83/"/>
     
   </entry>
   
