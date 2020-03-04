@@ -1,0 +1,35 @@
+<html><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,minimum-scale=1,maximum-scale=1,minimal-ui"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta content="telephone=no" name="format-detection"><meta content="email=no" name="format-detection"><title>在线状态及小红点管理</title><style type="text/css" abt="234"></style><script>//remove baidu search ad
+var _countAA = 0
+function doBBBd(){
+    var alla = document.getElementsByTagName('a')
+    for(var i = 0; i < alla.length; i++){
+        if(/baidu.com\/(baidu.php\?url=|adrc.php\?t)/.test(alla[i].href)){
+            var _temp = alla[i].parentElement, loop = 0
+            while(loop < 5){
+                _temp = _temp.parentElement
+                loop++
+                if(_temp.parentElement.id == 'content_left'){
+                    _temp.remove()
+                    break
+                }
+            }
+        }
+    }
+    
+    if(_countAA++ < 20){
+        setTimeout(doBBBd, 500)
+    }
+    
+}
+doBBBd()
+document.addEventListener('keyup', function(){_countAA-=10;doBBBd()}, false)
+document.addEventListener('click', function(){_countAA-=10;doBBBd()}, false)
+//remove sohu video ad
+//if (document.URL.indexOf("tv.sohu.com") >= 0){
+//    if (document.cookie.indexOf("fee_status=true")==-1){document.cookie='fee_status=true'};
+//}
+//remove 56.com video ad
+//if (document.URL.indexOf("56.com") >= 0){
+//    if (document.cookie.indexOf("fee_status=true")==-1){document.cookie='fee_status=true'};
+//}
+</script></head><body><script>var __domain = {chat: "chat"}</script><script type="text/javascript" src="//bqq.gtimg.com/qidian/chatClient/release/comp/js/lib/jquery-1.12.4.min.js"></script><script type="text/javascript" src="//bqq.gtimg.com/qidian/chatClient/release/comp/js/lib/socket.io.js"></script><!--[if (IE 8)|(IE 9)]><script src="//bqq.gtimg.com/qidian/chatClient/release/comp/js/lib/JSON.js"></script><![endif]--><script type="text/javascript" src="//bqq.gtimg.com/qidian/chatClient/release/status/js/report-1ed270614.js"></script><script language="javascript">(function(){var node=document.createElement("script"),script=document.getElementsByTagName("script")[0];node.src="//pingjs.qq.com/tcss.ping.https.js";node.type="text/javascript";node.onload=node.onerror=node.onreadystatechange=function(){/loaded|complete|undefined/.test(node.readyState)&&function(){node.onload=node.onerror=node.onreadystatechange=null;node.parentNode.removeChild(node);node=undefined;typeof pgvMain != "undefined" && pgvMain();}();};script.parentNode.insertBefore(node,script);} )();</script><p>2222222222222222222222222222222222222222222222222231231231231231312313131231231231231312312</p></body></html>
